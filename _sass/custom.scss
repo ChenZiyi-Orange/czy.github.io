@@ -1,0 +1,4 @@
+.sidebar-avatar img {
+  object-fit: cover;
+  object-position: center 30%;  /* 显示图片偏上的部分，数值越小越靠上 */
+}
