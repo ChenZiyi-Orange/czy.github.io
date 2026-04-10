@@ -1,0 +1,52 @@
+# Setup
+title: Tao Ye
+description: >
+  SJTU X-LANCE B.Eng. (2022-2026).<br/>
+  Incoming M.S. student at Nanjing University Speech Group (2026-2029), advised by
+  <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
+url: https://ty0402.github.io
+avatar: /avatar-2026.jpg
+paginate: 5
+permalink: pretty
+cover_image:
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+
+# Optimize Jekyll SEO Tag
+twitter:
+  username: ty0402
+  card: summary
+logo: avatar-2026.jpg
+social:
+  name: Tao Ye
+  links:
+    - https://github.com/ty0402
+google_site_verification: ""
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+author:
+  name: Tao Ye
+  url: https://github.com/ty0402/
+  email: ty0402@gmail.com
