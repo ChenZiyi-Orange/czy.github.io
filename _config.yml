@@ -5,7 +5,7 @@ description: >
   Incoming M.S. student at Nanjing University Speech Group (2026-2029), advised by
   <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
 url: https://ty0402.github.io
-avatar: /avatar-2026.jpg
+avatar: /czy.jpg
 paginate: 5
 permalink: pretty
 cover_image:
@@ -34,7 +34,7 @@ exclude:
 twitter:
   username: ty0402
   card: summary
-logo: avatar-2026.jpg
+logo: czy.jpg
 social:
   name: Tao Ye
   links:
