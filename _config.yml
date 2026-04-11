@@ -1,11 +1,11 @@
 # Setup
-title: Chen Ziyi
-description: >
   # SJTU X-LANCE B.Eng. (2022-2026).<br/>
-  School of Cyberspace Security, HUST (2022–2026).<br/>
-  School of Intelligence Science and Technology, NJU (2026–Present)
   # Incoming M.S. student at Nanjing University Speech Group (2026-2029), advised by
   # <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
+title: Chen Ziyi
+description: >
+  School of Cyberspace Security, HUST (2022–2026).<br/>
+  School of Intelligence Science and Technology, NJU (2026–Present)
 url: https://chenziyi-orange.github.io
 avatar: /czy.jpg
 paginate: 5
