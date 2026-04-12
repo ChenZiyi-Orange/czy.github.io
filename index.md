@@ -32,11 +32,8 @@ My current research focuses on multi-speaker understanding for Speech Large Lang
 
 You can find the full list on **[Publications](/publications/)**.
 
-- **MMEdit: A Unified Framework for Multi-Type Audio Editing via Audio Language Model** (ICME 2026 accepted)  
-  Unified editing framework for multiple audio editing operations with strong instruction following and content preservation. [arXiv](https://arxiv.org/abs/2512.20339) | [Project](https://ty0402.github.io/MMEditing/)
-
-- **UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities** (arXiv 2025)  
-  Unified flow-matching framework for omni-modal audio generation across aligned and non-aligned tasks. [arXiv](https://arxiv.org/abs/2509.24391) | [Project](https://wsntxxn.github.io/uniflow_audio/)
+- **G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition** (arXiv 2026)  
+  *arXiv preprint, 2026.* [arXiv](https://arxiv.org/pdf/2603.10468)
 
 ---
 
@@ -52,4 +49,4 @@ You can find the full list on **[Publications](/publications/)**.
 
 - The 13th Soong Ching Ling Scholarship
 - National Scholarship for the 2023–2024 Academic Year
-- Outstanding Undergraduate in Academic Performance, 2023–2024 (Top 1%)
+- Outstanding Undergraduate in Academic Performance, HUST, 2023–2024 (Top 1%)
