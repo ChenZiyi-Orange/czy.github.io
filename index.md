@@ -5,9 +5,7 @@ permalink: /
 lang: en
 ---
 
-I am **Chen Ziyi**, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**.
-
-I am an incoming M.S. student at the **Nanjing University Speech Group (2026-2029)**, advised by **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
+I am Chen Ziyi, an undergraduate from Huazhong University of Science and Technology (HUST), and will be a Ph.D. student at Nanjing University (NJU) starting September 2026, advised **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
 
 ---
 
@@ -32,7 +30,7 @@ My current research focuses on multi-speaker understanding for Speech Large Lang
 
 You can find the full list on **[Publications](/publications/)**.
 
-- **G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition** (arXiv 2026)  
+- **G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition**
   *arXiv preprint, 2026.* [arXiv](https://arxiv.org/pdf/2603.10468)
 
 ---
