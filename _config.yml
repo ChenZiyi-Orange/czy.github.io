@@ -4,8 +4,8 @@
   # <a href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener">Prof. Shuai Wang</a>.
 title: Chen Ziyi
 description: >
-  School of Cyberspace Security, HUST (2022–2026)<br/>
-  School of Intelligence Science and Technology, NJU (2026–Present)
+  School of Intelligence Science and Technology, NJU (2026–Present)<br/>
+  School of Cyberspace Security, HUST (2022–2026)
 url: https://chenziyi-orange.github.io
 avatar: /czy.jpg
 paginate: 5
@@ -49,6 +49,6 @@ sass:
   style: :compressed
 
 author:
-  name: Tao Ye
+  name: Chen Ziyi
   url: https://github.com/ty0402/
   email: ty0402@gmail.com
