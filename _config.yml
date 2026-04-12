@@ -10,7 +10,7 @@ url: https://chenziyi-orange.github.io
 avatar: /czy.jpg
 paginate: 5
 permalink: pretty
-cover_image:
+cover_image: /bg.png
 
 # Gems
 plugins:
