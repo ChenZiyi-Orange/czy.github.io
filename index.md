@@ -50,5 +50,6 @@ You can find the full list on **[Publications](/publications/)**.
 
 ## Honors
 
-- Zhiyuan Honors Program, Shanghai Jiao Tong University
-- AI Talents Pilot Class, Shanghai Jiao Tong University
+- The 13th Soong Ching Ling Scholarship
+- National Scholarship for the 2023–2024 Academic Year
+- Outstanding Undergraduate in Academic Performance, 2023–2024 (Top 1%)
