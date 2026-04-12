@@ -42,8 +42,8 @@ You can find the full list on **[Publications](/publications/)**.
 
 ## Contact
 
-- **Email:** [ty0402@gmail.com](mailto:ty0402@gmail.com)
-- **GitHub:** [https://github.com/ty0402](https://github.com/ty0402)
+- **Email:** zc612997@gmail.com
+- **GitHub:** https://github.com/ChenZiyi-Orange
 - **Google Scholar:** TODO
 
 ---
