@@ -5,37 +5,26 @@ permalink: /
 lang: en
 ---
 
-I am **Tao Ye**, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**.
+I am **Chen Ziyi**, an undergraduate student in Artificial Intelligence at **Shanghai Jiao Tong University (SJTU)**, enrolled in the **AI Talents Pilot Class** and the **Zhiyuan Honors Program**.
 
 I am an incoming M.S. student at the **Nanjing University Speech Group (2026-2029)**, advised by **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
 
 ---
 
 ## Research Interests
+My current research focuses on multi-speaker understanding for Speech Large Language Models.
 
-- General audio generation
-- Dialogue systems
-- Spoken language models
+- Speaker Diarization
+- Speaker-attributed ASR (SA-ASR)
+- Speaker Modeling
 
 ---
 
 ## Education
 
-- **Shanghai Jiao Tong University (SJTU)**, B.Eng. in Artificial Intelligence, **2022-2026**  
-  AI Talents Pilot Class, Zhiyuan Honors Program, X-LANCE Lab
+- **Huazhong University of Science and Technology (HUST)**, School of Cyberspace Security, **2022–2026**
 
-- **Nanjing University (NJU)**, Incoming M.S. Student, **2026-2029**  
-  Speech Group, advised by [Prof. Shuai Wang](https://shuaiwang-nju.github.io/)
-
----
-
-## Experience
-
-- **Research Intern, Shanghai AI Laboratory (Speech Group)**, **Jun 2025 - Dec 2026**  
-  Supervised by **Prof. Chao Zhang**.
-
-- **Research Intern, Video Rebirth**, **Dec 2026 - Present**  
-  Working on unified audio-visual generation and VTA tasks.
+- **Nanjing University (NJU)**, School of Intelligence Science and Technology, **2026–Present**
 
 ---
 
