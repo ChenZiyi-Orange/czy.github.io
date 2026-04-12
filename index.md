@@ -37,8 +37,8 @@ You can find the full list on **[Publications](/publications/)**.
 
 ## Contact
 
-- **Email:** zc612997@gmail.com
-- **GitHub:** https://github.com/ChenZiyi-Orange
+- **Email:** [zc612997@gmail.com](zc612997@gmail.com)
+- **GitHub:** [https://github.com/ChenZiyi-Orange](https://github.com/ChenZiyi-Orange)
 - **Google Scholar:** TODO
 
 ---
