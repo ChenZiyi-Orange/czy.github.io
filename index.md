@@ -5,7 +5,7 @@ permalink: /
 lang: en
 ---
 
-I am Chen Ziyi, an undergraduate from Huazhong University of Science and Technology (HUST), and will be a Ph.D. student at Nanjing University (NJU) starting Fall 2026, advised **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
+I am **Chen Ziyi**, an undergraduate from **Huazhong University of Science and Technology (HUST)**, and will be a Ph.D. student at **Nanjing University (NJU)** starting Fall 2026, advised **[Prof. Shuai Wang](https://shuaiwang-nju.github.io/)**.
 
 ---
 
