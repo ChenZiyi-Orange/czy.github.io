@@ -31,7 +31,7 @@ My current research focuses on multi-speaker understanding for Speech Large Lang
 You can find the full list on **[Publications](/publications/)**.
 
 - **G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition.**
-  *arXiv preprint, 2026.* [arXiv](https://arxiv.org/pdf/2603.10468)
+  *arXiv preprint, 2026.* [arXiv](https://arxiv.org/abs/2603.10468)
 
 ---
 
