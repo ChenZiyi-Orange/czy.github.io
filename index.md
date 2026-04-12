@@ -20,9 +20,9 @@ My current research focuses on multi-speaker understanding for Speech Large Lang
 
 ## Education
 
-- **Huazhong University of Science and Technology (HUST)**, School of Cyberspace Security, **2022–2026**
-
 - **Nanjing University (NJU)**, School of Intelligence Science and Technology, **2026–Present**
+
+- **Huazhong University of Science and Technology (HUST)**, School of Cyberspace Security, **2022–2026**
 
 ---
 
